@@ -7,3 +7,4 @@ Add HATEOAS:
 2. https://github.com/jmarquis/angular-hateoas
 3. https://www.jiwhiz.com/#/blogs/535588f6352eb40d58180a58
 4. http://lunaris.github.io/js-angular-london-20140514/
+5. https://blog.codecentric.de/en/2013/11/traverson/
